@@ -2,6 +2,7 @@
 - I'm a Research Engineer at Inria Paris (France), working on [Charon](https://github.com/AeneasVerif/charon).
 - I'm a contributor to the Rust project and member of the compiler and lang-advisor teams.
     - I specialize in features related to pattern-matching.
+- Check out [my blog](https://nadrieril.github.io/blog)!
 
 
 ### 📊 GitHub Stats
