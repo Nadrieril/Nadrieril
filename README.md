@@ -15,7 +15,7 @@
 
 - For matters related to Rust, I'm @Nadrieril on the [Rust Zulip](https://rust-lang.zulipchat.com/);
 - For matters related to Charon more specifically, I'm @Nadrieril on the [AeneasVerif Zulip](https://aeneas-verif.zulipchat.com/);
-- For other matters, try my [Twitter](https://x.com/nadrieril).
+- For other matters, try my email (you can find it by looking at my commits).
 
 <!--
 **Nadrieril/Nadrieril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
